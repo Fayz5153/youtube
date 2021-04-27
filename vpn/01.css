@@ -1,0 +1,745 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.chap{
+    display: flex;
+    align-items: center;
+}
+.chap img{
+    margin-right: 20px;
+}
+.chap p{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0b132a;
+}
+.vpn{
+    font-weight: 900;
+}
+.orta a{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4f5665;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.chapa{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #0B132A;
+    margin-right: 30px;
+}
+.activ{
+    border: 1px solid #F53855;
+    box-sizing: border-box;
+    border-radius: 50px;
+    color: #f53855;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    }
+    
+.i1{
+    position: absolute;
+    right: 10%;
+    top: 100px;
+    height: 650px;
+    width: 650px;
+}
+.start h1{
+    position: absolute;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Rubik';
+    width: 550px;
+    top: 200px;
+    left: 150px;
+}
+.start p{
+    position: absolute;
+    font-family: 'Rubik';
+    width: 550px;
+    font-size: 15px;
+    font-weight: normal;
+    top: 400px;
+    left: 150px;
+}
+.btn_get{
+    position: absolute;
+    outline: none;
+    width: 250px;
+    height: 60px;
+    left: 150px;
+    top: 476.77px;
+    background: #F53838;
+    border: 1px solid #f53838;
+    border-radius: 10px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: white;
+    left: 150px;
+    margin-top: 50px;
+}
+.infobar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 700px;
+    margin-left: 30px;
+}
+.users{
+    position: absolute;
+    margin-left: -80px;
+    margin-top: 30px;
+}
+.locotion{
+    position: absolute;
+    margin-left: -80px;
+    margin-top: 30px;
+}
+.server{
+    position: absolute;
+    margin-left: -80px;
+    margin-top: 30px;
+}
+.infochap{
+    font-family: "Rubik";
+}
+.infoorta{
+    font-family: "Rubik";
+}
+.infoong{
+    font-family: "Rubik";
+}
+.ppp{
+    position: absolute;
+    border-left: 3px solid #EEEFF2;
+    border-right: 3px solid #EEEFF2;
+    height: 125px;
+    width: 660px;
+    left: 600px;
+}
+.sec_1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 180px;
+}
+.bx{
+    display: flex;
+    top: 20px;
+}
+.sec_1info{
+    margin-top: 20px;
+}
+.sec_1info h1{
+    font-family: "Rubik";
+    width: 380px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+}
+.sec_1info p{
+    font-family: "Rubik";
+    color: #4F5665;
+}
+.sec_1p{
+    width: 500px;
+}
+.asos{
+    background:#F6F6F6;
+    background-size: cover;
+    margin-top: 150px;
+}
+.free{
+    display: flex;
+    justify-content: space-evenly;
+}
+.tepah1{
+    text-align: center;
+    font-family: "Rubik";
+    padding-top: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+
+}
+.tepap1{
+    text-align: center;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    width: 550px;
+    margin: auto;
+}
+.allbox{
+    border: 2px solid #DDDDDD;
+    background: #ffffff;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 330px;
+    height: 760px;
+}
+.box{
+    display: flex;
+    margin-left: 60px;
+    top: 100px;
+}
+.asos h1{
+    font-family: "Rubik";
+}
+.asos p{
+    font-family: "Rubik";
+}
+.box p{
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    text-align: center;
+    padding-left: 40px;
+    color: #4F5665;
+
+}
+.allbox h1{
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #0B132A;
+}
+.boxpast1{
+    padding-top: 620px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 30px;
+}
+.boxpast2{
+    padding-top: 620px;
+}
+.boxpast3{
+    padding-top: 620px;
+}
+.bfree{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.boxlar{
+    position: absolute;
+    padding-top: 200px;
+}
+.boxlar h1{
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #0B132A;
+    margin-left: 80px;
+}
+.spmo{
+    color: #0b132a98;
+}
+.btn_select{
+    font-family: "Rubik";
+    outline: none;
+    border: 2px solid #F53838;
+    box-sizing: border-box;
+    border-radius: 50px;
+    position: absolute;
+    width: 177.88px;
+    height: 45px;
+    background: white;
+    margin-left: 80px;
+}
+.btn_select:hover{
+    background: #F53838;
+    color: white;
+    transition: 0.7s;
+}
+.allbox:hover{
+    border: 2px solid #F53838;
+    transition: 0.7s;
+}
+.ortah1{
+    text-align: center;
+    font-family: "Rubik";
+    padding-top: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+
+}
+.ortap1{
+    text-align: center;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    width: 550px;
+    margin: auto;
+}
+.rasm{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.pasth1{
+    text-align: center;
+    font-family: "Rubik";
+    padding-top: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+
+}
+.pastp1{
+    text-align: center;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    width: 550px;
+    margin: auto;
+}
+.profiles{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.prof{
+    display: flex;
+    flex-direction: column;
+    background: #FFFFFF;
+    border: 2px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 400px;
+    height: 230px;
+}
+.imgp{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.profiles h1 {
+    align-items: center;
+    margin-left: 75px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+}
+.star{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+.profiles p {
+    align-items: center;
+    margin-left: 75px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.profiles h3{
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: -7px;
+    color: #0B132A;
+}
+.prof:hover{
+    border: 2px solid #F53838;
+    transition: 0.7s;
+}
+.sec_2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+.chapong{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -70px;
+}
+.vectorong{
+    margin-top: 25px;
+    margin-left: -15px;
+}
+.sec_3{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 70px;
+    box-shadow: 0px 30px 80px rgba(0, 0, 0, 0.205);
+}
+.sec_3 h1{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 45px;
+    width: 372px;
+    color: #0B132A;
+}
+.sec_3 p{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    width: 410px;
+    color: #4F5665;
+}
+.sec_3 button{
+    outline: none;
+    width: 250px;
+    height: 60px;
+    left: 970px;
+    margin-top: 50px;
+    background: white;
+    border-radius: 10px;
+    border: 2px solid #F53838;
+    font-family: 'Rubik';
+    font-size: 16px;
+}
+.sec_3 button:hover{
+    background: #F53838;
+    color: white;
+    transition: 0.7s;
+}
+footer{
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr 2fr;
+    grid-gap: 10px;
+    background: #F8F8F8;
+    height: 563.12px;
+    margin: 70px 100px 50px 100px;
+}
+footer a{
+    text-decoration: none;
+    color: #0B132A;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.footervec{
+    position: absolute;
+    margin-top: 10px;
+}
+.f1 h2{
+    margin-left: 50px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0b132a;
+}
+.f1{
+    display: flex;
+    flex-direction: column;
+}
+.f1 p{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+    width: 400px;
+}
+.f2{
+    display: flex;
+    flex-direction: column;
+}
+.f3{
+    display: flex;
+    flex-direction: column;
+}
+.f4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lasles{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #AFB5C0 !important;
+}
+.aa{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #0B132A;
+    margin-bottom: 20px;
+}
+@media (max-width: 1024px) {
+    body{
+        margin-left: 120px;
+        width: 1024px;
+    }
+    footer{
+        width: 1024px;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding-left: 0px;
+        padding-right: 0px;
+        justify-content: center;
+    }
+    .ong {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+    .start{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+
+    }
+    .i1{
+        position:relative;
+        left: 10%;
+        top: 350px;
+    }
+    .ppp{
+        border: 0px;
+    }
+    .free{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .profiles{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .map{
+        height: 400px;
+        width: 800px;
+        margin: auto;
+        padding: auto;
+    }
+    .sec_1p{
+        width: 450px;
+    }
+    .i2{
+        height: 380px;
+        width: 480px;
+    }
+}
+@media (max-width: 768px) {
+    body{
+        margin-left: 40px;
+        width: 768px;
+    }
+    footer{
+        width: 768px;
+    }
+    .free{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .map{
+        height: 300px;
+        width: 600px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: -130px;
+    }
+    .rasm1{
+        margin-left: -130px;
+    }
+    .sec_1p{
+        width: 400px;
+    }
+    .i2{
+        height: 320px;
+        width: 420px;
+    }
+    .sec_3 h1{
+        font-size: 20px;
+        width: 250px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .sec_3 p{
+        font-size: 14px;
+        width: 280px;
+    }
+    .f1{
+        width: 350px;
+    }
+    footer{
+        grid-gap: 10px;
+    }
+}
+@media (max-width: 375px){
+    body{
+        margin-left: 20px;
+        width: 375px;
+    }
+    footer{
+        width: 375px;
+    }
+    .start h1 {
+        font-size: 25px;
+        width: 350px;
+        left: 50px;
+    }
+    .start p{
+        font-size: 10px;
+        width: 350px;
+        left: 50px;
+        top: 300px;
+    }
+    .btn_get{
+        width: 150px;
+        height: 40px;
+        left: 50px;
+        top: 350px;
+    }
+    .i1{
+        height: 250px;
+        width: 350px;
+    }
+    .infobar{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin-top: 400px;
+    }
+    .sec_1{
+        display: flex;
+        flex-direction: column;
+    }
+    .tepap1{
+        font-size: 14px;
+        width: 350px;
+    }
+    .ortap1{
+        font-size: 14px;
+        width: 350px;
+    }
+    .map{
+        height: 150px;
+        width: 350px;
+        margin-left: -130px;
+    }
+    .rasm1{
+        height: 70px;
+        width: 320px;
+        margin-left: -130px;
+    }
+    .pastp1{
+        font-size: 14px;
+        width: 350px;
+    }
+    .prof{
+        width: 350px;
+        height: 245px; 
+    }
+    .star{
+    margin-left: 100px;
+    }
+    .profiles h3{
+        width: 320px;
+        margin-left: 15px;
+    }
+    .chapong{
+        margin-left: 25px;
+    }
+    .sec_3{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin-left: 0px;
+        margin-right: 0px;
+        justify-content: center;
+    }
+    .sec_3 h1{
+        padding-left: 20px;
+    }
+    .sec_3 {
+        padding-left: 20px;
+    }
+    .sec_3ong{
+        margin-bottom: 30px;
+        padding-left: 20px;
+    }
+    footer{
+        margin-top: 300px;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+    .f1{
+        position: absolute;
+        margin-top: -280px;
+        margin-left: -20px;
+    }
+    .f1 p{
+        width: 340px;
+    }
+}
