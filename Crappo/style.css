@@ -619,7 +619,7 @@ main {
 
 .coin:hover {
   -webkit-transition: 0.5s;
-  transition: 0.5s;
+  transition: 0.8s;
   background: #2B076E;
   -webkit-backdrop-filter: blur(250px);
           backdrop-filter: blur(250px);
@@ -628,9 +628,11 @@ main {
 
 .coin:hover h1 {
   color: white;
+  transition: 0.8s;
 }
 
 .coin:hover p {
   color: white;
+  transition: 0.8s;
 }
 /*# sourceMappingURL=style.css.map */
