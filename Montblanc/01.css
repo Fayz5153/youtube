@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(./Background\ 0.svg);
+    background-size: cover;
+}
+.orta ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 35px;
+    margin-top: 37px;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.orta a{
+    text-decoration: none;
+    color: white;
+    font-family:sans-serif ;
+    line-height: 7px;
+    font-size: 11px;
+    font-weight: 700;
+}
+header{
+    border: 1px solid white ;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    position: absolute;
+    height: 600px;
+    width: 1100px;
+    left: 100px;
+    top: 120px;
+    background: url(./Background.svg);
+}
+.gold{
+    position: absolute;
+    height: 500px;
+    top: 280px;
+}
+.icon{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 30px
+}
+.gold1{
+    position: absolute;
+    right: 0px;
+    height: 300px;
+    width: 300px;
+    margin-top: -50px;
+}
+.logo{
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}
+.img1{
+    position: absolute;
+    height: 360px;
+    width: 700px;
+    top: 70px;
+}
+.img2{
+    position: absolute;
+    height: 340px;
+    width: 200px;
+    right: 200px;
+    top: 90px;
+}
+.img3{
+    position: absolute;
+    height: 150px;
+    width: 200px;
+    bottom: 0px;
+    right: 200px;
+}
+.vector{
+    position: absolute;
+    height: 370px;
+    width: 900px;
+    bottom: -10px;
+}
+.info{
+    position: absolute;
+    height: 260px;
+    width: 550px;
+    bottom: -70px;
+    left: 35px;
+}
+.mon{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    right: 500px;
+    top: 100px;
+}
+.i1{
+    position: absolute;
+    width: 230px;
+    height: 90px;
+    right: -30px;
+    top: 220px;
+}
+.i2{
+    position: absolute;
+    width: 230px;
+    height: 90px;
+    right: -30px;
+    top: 310px;
+}
+.i3{
+    position: absolute;
+    width: 230px;
+    height: 90px;
+    right: -30px;
+    top: 400px;
+}
+.i4{
+    position: absolute;
+    width: 230px;
+    height: 90px;
+    right: -30px;
+    top: 490px;
+}
