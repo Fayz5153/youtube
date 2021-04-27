@@ -1,0 +1,100 @@
+  * {
+      margin: 0;
+      padding: 0;
+  }
+  
+  .asos {
+      height: 100vh;
+      background: url(./background.png);
+      background-position: center;
+      background-size: cover;
+      padding: 50px;
+      padding-left: 20px;
+      display: grid;
+      grid-template-rows: 1fr 5fr;
+  }
+  
+  .menu {
+      display: grid;
+      grid-template-columns: 1fr 3fr 1fr;
+      height: 50px;
+      align-items: center;
+  }
+  
+  .logo {
+      width: 200px;
+  }
+  
+  .cart {
+      width: 50px;
+      padding-left: 200px;
+  }
+  
+  nav {
+      font-size: large;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-around;
+      padding-right: 300px;
+  }
+  
+  nav>a {
+      text-decoration: none;
+      color: rgb(15, 23, 31);
+  }
+  
+  .orta {
+      padding-left: 250px;
+      padding-top: 100px;
+  }
+  
+  .btn {
+      background: linear-gradient(to right bottom, #17dc28, #c3d60f);
+      outline: none;
+      border: rgb(237, 15, 15);
+      border-radius: 8%;
+      width: 120px;
+      height: 40px;
+  }
+  
+  .orta>h1 {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 50px;
+      color: rgb(31, 166, 219);
+  }
+  
+  .orta>p {
+      font-size: large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .img {
+      position: absolute;
+      width: 800px;
+      height: 800px;
+      left: 53%;
+      top: 17%;
+  }
+  
+  .arrow {
+      cursor: pointer;
+  }
+  
+  .arrow>img {
+      width: 50px;
+      margin: 5px;
+  }
+  
+  .link {
+      position: absolute;
+      left: -30px;
+      bottom: 150px;
+      transform: rotate(90deg);
+  }
+  
+  .link>a {
+      text-decoration: none;
+      color: rgb(15, 15, 15);
+      font-size: larger;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
