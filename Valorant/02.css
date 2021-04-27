@@ -1,0 +1,254 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    position: relative;
+    width: 1550px;
+    height: 1162px;
+    background-size: cover;
+    background: #1F2326;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Ellipse_big{
+    position: absolute;
+    width: 1107px;
+    height: 1108px;
+    left: -193px;
+    top: -356px;
+}
+.chap_past_oq{
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 88px;
+    top: 1132px;
+}
+.chap_past_qora{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 56px;
+    top: 1191px;
+}
+.Ellipse_ong_past{
+    position: absolute;
+    width: 721px;
+    height: 721px;
+    left: 1009px;
+    top: 645px;
+}
+.Ellipse_ong_qizil{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 1418px;
+    top: 37px;
+}
+.Ellipse_ong_qora{
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 1473px;
+    top: 237px;
+}
+.Ellipse_oq_ong{
+    position: absolute;
+    width: 134px;
+    height: 135px;
+    left: 1363px;
+    top: 91px;
+}
+.asos{
+    position: absolute;
+    width: 1330px;
+    height: 958px;
+    left: 110px;
+    top: 151px;
+    
+    background: #FF4656;
+    border-radius: 32px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #1F2326;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+    height: 100px;
+}
+.navbar a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 17px;
+    text-align: center;
+    margin-right: 15px;
+}
+.pol1{
+    position: absolute;
+    left: 430px;
+    margin-top: 8px;
+}
+.pol2{
+    position: absolute;
+    left: 595px;
+    margin-top: 8px;
+}
+.pol3{
+    position: absolute;
+    margin-left: 63px;
+    margin-top: 8px;
+}
+.icon{
+    position: absolute;
+    margin-left: -50px;
+    width: 30px;
+    height: 30px;
+}
+.navorta{
+    padding-right: 300px;
+}
+.navong{
+    margin-right: 37px;
+}
+.riot{
+    margin-top: 10px;
+    margin-left: 35px;
+    padding-right: 20px;
+    border-right: 3px solid white;
+    width: 60px;
+    height: 30px;
+}
+.logo{
+    width: 60px;
+    height: 30px;
+    margin-left: 20px;
+}
+main{
+    background: url(./files/background.svg);
+    display: flex;
+    flex-direction: column;
+}
+.main1{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: 600px;
+    background: #F8F8F8;
+    margin-top: 50px;
+    margin-left: 70px;
+    padding: 15px 10px 0px 10px;
+}
+.maintepa{
+    display: flex;
+    flex-direction: column;
+}
+.mainorta{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+.mainpast{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mainbosh h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 31px;
+    
+    color: #1F2326;
+}
+.maintepa p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    margin-top: 10px;
+    
+    color: #1F2326;
+}
+.mainorta p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    
+    color: #1F2326;
+}
+.mainorta h1{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #1F2326;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.ps1{
+    color: #C4C4C4;
+}
+.stream{
+    width: 320px;
+    height: 190px;
+    margin-left: -70px;
+}
+.mainpast img{
+    width: 200px;
+    height: 144px;
+    margin-top: -5px;
+}
+.info p{
+    margin-top: 8px;
+}
+.slider{
+    width: 10px;
+    height: 100px;
+    margin-top: 30px;
+}
+.elements{
+    position: absolute;
+    width: 1400px;
+    height: 700px;
+    margin-top: 110px;
+    margin-left: -110px;
+}
+.jett{
+    position: absolute;
+    height: 600px;
+    width: 120px;
+    margin-left: 1100px;
+}   
+.arm{
+    display: flex;
+    justify-content: left;
+    margin-left: -80px;
+}
+.arm img{
+    width: 350px;
+    height: 130px;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+footer{
+    background: #F8F8F8;
+    border-radius: 0px 0px 32px 32px;
+    width: 1330px;
+    height: 50px;
+}
