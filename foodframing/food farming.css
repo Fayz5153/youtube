@@ -1,0 +1,112 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+    padding-right: 50px;
+    box-sizing: border-box;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    color: black;
+}
+.navbar ul li a{
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+}
+.navbar a:hover{
+    color: #C08D5D;
+}
+.navbar a{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+}
+.ico{
+    position: absolute;
+    left: 5%;
+    top: 70px;
+}
+.logo{
+    position: absolute;
+    left: 47%;
+    width: 38.64px;
+    height: 59px;
+}
+.chap a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ong a{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.ong a:hover{
+    color: #C08D5D;
+}
+.orta{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.orta h2{
+    font-size: 50px;
+}
+.orta h1{
+    font-size: 70px;
+}
+.orta p{
+    position: absolute;
+    width: 552px;
+    height: 108px;
+    left: 128px;
+    top: 584px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 147.6%;
+}
+.btn{
+    position: absolute;
+    width: 203.26px;
+    height: 64px;
+    left: 128px;
+    top: 764px;
+    outline: none;
+    border: 1px solid #C08D5D;
+    font-size: x-large;
+    background: white;
+    padding-right: 40px;
+}
+.img{
+    position: absolute;
+    width: 750px;
+    height: 960px;
+    left: 1100px;
+    top: -20px;
+}
+.vector2{
+    background: #C08D5D;
+    outline: none;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 10px;
+    padding-top: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 28px;
+}
+.logo2{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.group5{
+    position: absolute;
+    top: 750px;
+    left: 750px
+}
