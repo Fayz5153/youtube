@@ -1,0 +1,16 @@
+@media (max-width:425px){
+  .navbar{
+    display:none;
+
+
+  }
+  .submenu{
+    display:none;
+  }
+  .resnavbar{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    display:block;
+}
+}
